@@ -43,16 +43,7 @@
 | [Portfolio](https://github.com/so674/Sourin_Mukherjee_Portfolio-) | My personal portfolio website. | [View](https://github.com/so674/Sourin_Mukherjee_Portfolio-) |
 | [QR/Barcode Generator](https://github.com/so674/Qr-BarCode-Generator) | A Java-based QR code generator using ZXing and Maven. | [View](https://github.com/so674/Qr-BarCode-Generator) |
 
----
 
-### 📈 GitHub Stats
-
-![Sourin's GitHub stats](https://github-readme-stats.vercel.app/api?username=so674&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=so674&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=so674&layout=compact&theme=radical)
-
----
 
 ### 📫 Connect with Me
 
